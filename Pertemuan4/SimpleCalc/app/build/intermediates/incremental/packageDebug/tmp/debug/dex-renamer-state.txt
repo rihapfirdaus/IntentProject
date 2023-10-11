@@ -1,0 +1,7 @@
+#Thu Oct 05 19:54:28 WIB 2023
+base.0=C\:\\Users\\StateArchives\\Documents\\coding\\SMT5\\Tugas\\PPAM\\Pertemuan4\\SimpleCalc\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\StateArchives\\Documents\\coding\\SMT5\\Tugas\\PPAM\\Pertemuan4\\SimpleCalc\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.0=classes.dex
+path.1=classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

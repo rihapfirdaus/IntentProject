@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  Copyright 2018 Google Inc.
+4
+5  Licensed under the Apache License, Version 2.0 (the "License");
+6  you may not use this file except in compliance with the License.
+7  You may obtain a copy of the License at
+8
+9      http://www.apache.org/licenses/LICENSE-2.0
+10
+11  Unless required by applicable law or agreed to in writing, software
+12  distributed under the License is distributed on an "AS IS" BASIS,
+13  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  See the License for the specific language governing permissions and
+15  limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.SimpleCalc"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="21"
+23-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="30" />
+24-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml
+25
+26    <queries>
+26-->[androidx.test:runner:1.5.2] C:\Users\StateArchives\.gradle\caches\transforms-3\cdbfe8b94d62b04e2ea98f9690495bb3\transformed\runner-1.5.2\AndroidManifest.xml:24:5-28:15
+27        <package android:name="androidx.test.orchestrator" />
+27-->[androidx.test:runner:1.5.2] C:\Users\StateArchives\.gradle\caches\transforms-3\cdbfe8b94d62b04e2ea98f9690495bb3\transformed\runner-1.5.2\AndroidManifest.xml:25:9-62
+27-->[androidx.test:runner:1.5.2] C:\Users\StateArchives\.gradle\caches\transforms-3\cdbfe8b94d62b04e2ea98f9690495bb3\transformed\runner-1.5.2\AndroidManifest.xml:25:18-59
+28        <package android:name="androidx.test.services" />
+28-->[androidx.test:runner:1.5.2] C:\Users\StateArchives\.gradle\caches\transforms-3\cdbfe8b94d62b04e2ea98f9690495bb3\transformed\runner-1.5.2\AndroidManifest.xml:26:9-58
+28-->[androidx.test:runner:1.5.2] C:\Users\StateArchives\.gradle\caches\transforms-3\cdbfe8b94d62b04e2ea98f9690495bb3\transformed\runner-1.5.2\AndroidManifest.xml:26:18-55
+29        <package android:name="com.google.android.apps.common.testing.services" />
+29-->[androidx.test:runner:1.5.2] C:\Users\StateArchives\.gradle\caches\transforms-3\cdbfe8b94d62b04e2ea98f9690495bb3\transformed\runner-1.5.2\AndroidManifest.xml:27:9-83
+29-->[androidx.test:runner:1.5.2] C:\Users\StateArchives\.gradle\caches\transforms-3\cdbfe8b94d62b04e2ea98f9690495bb3\transformed\runner-1.5.2\AndroidManifest.xml:27:18-80
+30    </queries>
+31
+32    <application
+32-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:20:5-32:19
+33        android:allowBackup="true"
+33-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:21:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.5.0] C:\Users\StateArchives\.gradle\caches\transforms-3\eaef0563da0abf069bc2063fa586a386\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:22:9-43
+37        android:label="@string/app_name"
+37-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:23:9-41
+38        android:supportsRtl="true"
+38-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:24:9-35
+39        android:testOnly="true"
+40        android:theme="@style/AppTheme" >
+40-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:25:9-40
+41        <activity android:name="com.example.android.SimpleCalc.MainActivity" >
+41-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:26:9-31:20
+41-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:26:19-77
+42            <intent-filter>
+42-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:27:13-30:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:28:17-69
+43-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:28:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:29:17-77
+45-->C:\Users\StateArchives\Documents\coding\SMT5\Tugas\PPAM\Pertemuan4\SimpleCalc\app\src\main\AndroidManifest.xml:29:27-74
+46            </intent-filter>
+47        </activity>
+48    </application>
+49
+50</manifest>
