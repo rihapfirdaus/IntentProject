@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city">
+        <item name="Jakarta">Jakarta</item>
+        <item name="Bogor">Bogor</item>
+        <item name="Depok">Depok</item>
+        <item name="Tanggerang">Tanggerang</item>
+        <item name="Bekasi">Bekasi</item>
+    </string-array>
+</resources>
